@@ -6,7 +6,6 @@ Created on Tue Aug 29 11:11:54 2017
 """
 
 
-
 from plotly.offline import  init_notebook_mode, plot
 import plotly.graph_objs as go
 import pandas as pd
